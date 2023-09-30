@@ -1,10 +1,10 @@
-import "./App.css";
+import "./App.scss";
 
 function App() {
   return (
-    <>
-      <h1>Tech Nerf</h1>
-    </>
+    <div className="title-container">
+      <h1 className="web-title">Tech Nerf</h1>
+    </div>
   );
 }
 
