@@ -1,3 +1,3 @@
-import TableView from "./TableView";
+import TableView from "./Table";
 
 export { TableView };
